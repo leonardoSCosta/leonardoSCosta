@@ -41,7 +41,7 @@ I am a Robotics Engineer focused on bridging the gap between hardware constraint
 ---
 
 ### 📊 Stats & Connectivity
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoSCosta&show_icons=true&theme=tokyonight)
 
 - 🌍 Based in: São Bernardo do Campo, Brazil
 - 🎓 Education: PhD Candidate in Electrical Engineering (FEI)
